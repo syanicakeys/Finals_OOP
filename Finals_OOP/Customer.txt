@@ -1,0 +1,18 @@
+Customer Name: Shan
+Product: Baby Ruth
+Quantity: 4
+Discount: 5.0%
+Total: 258.4
+Cash: 2.0
+Change: -256.4
+Date: Sat May 25 19:23:16 PST 2024
+-------------------------------
+Customer Name: Pagod na ko
+Product: Toblerone
+Quantity: 5
+Discount: 5.0%
+Total: 261.25
+Cash: 500.0
+Change: 238.75
+Date: Sat May 25 19:46:03 PST 2024
+-------------------------------
