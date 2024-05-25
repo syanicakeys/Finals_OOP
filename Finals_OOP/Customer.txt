@@ -1,0 +1,42 @@
+Customer Name: r
+Product: Toblerone
+Quantity: 1
+Discount: 5.0%
+Total: 52.25
+Cash: 69.0
+Change: 16.75
+Date: Sat May 25 23:23:56 PST 2024
+-------------------------------
+Customer Name: test
+Product: Toblerone|Quantity: 1
+Discount: 5.0%
+Total: 55.0
+Cash: 60.0
+Change: 5.0
+Date: Sat May 25 23:24:46 PST 2024
+-------------------------------
+Customer Name: Roshan
+Discount: 0.0%
+Total: 0.0
+Cash: 500.0
+Change: 500.0
+Date: Sat May 25 23:39:17 PST 2024
+-------------------------------
+Customer Name: Pamela one
+Product: Toblerone | Quantity: 1
+Discount: 0.0%
+Total: 55.0
+Cash: 500.0
+Change: 445.0
+Date: Sat May 25 23:40:00 PST 2024
+-------------------------------
+Customer Name: Pamela two
+Product: Toblerone | Quantity: 2
+Product: Snickers | Quantity: 2
+Product: Hershey | Quantity: 1
+Discount: 5.0%
+Total: 194.75
+Cash: 590.0
+Change: 395.25
+Date: Sat May 25 23:40:14 PST 2024
+-------------------------------
